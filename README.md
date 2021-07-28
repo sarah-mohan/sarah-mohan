@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Nicky Sarah Mohan
+- 👀 I’m interested in UI-UX design and engineering...
+- 🌱 I’m currently learning React - bootstrap 4...
+- 📫 How to reach me : nicky.sarah.mohan@gmail.com...
+
+<!---
+sarah-mohan/sarah-mohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
